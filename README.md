@@ -1,6 +1,7 @@
 # EpochView
-<img src="./assets/Logo.png" alt="EpochView">
+<img src="./assets/Logo.png" alt="EpochView" width="40%">
 
+## Demo
 [![EpochView Demo](https://img.youtube.com/vi/nFKDqvfeReg/0.jpg)](https://youtu.be/nFKDqvfeReg)
 
 
@@ -8,7 +9,10 @@ EpochView is an interactive web application that transforms static map coordinat
 
 ## How we built it
 
-**Vibe-coded in Google AI Studio**
+**Vibe-coded in [Google AI Studio](https://aistudio.google.com/apps)**
+
+**Logo and Cover picture are geenrated using [Nano Banana Pro](https://gemini.google.com/app)**
+
 
 - **Core Intelligence:** We use Gemini 3 Pro Deep Research to aggregate scattered historical data and segment it into distinct, digestible eras.
 - **Multimodal Immersion:** Nano Banana Pro generates 3D isometric views, Veo 3 creates cinematic documentaries, and an integrated Audio Guide powered by Gemini 2.5 Flash TTS provides a narrated tour of each era.
