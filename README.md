@@ -1,9 +1,18 @@
 # EpochView
+
+<div align="center">
 <img src="./assets/Logo.png" alt="EpochView" width="40%">
+</div>
+
+### <a href="https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765114548767">Kaggle Writeup</a>
 
 ## Demo
+
+<div align="center">
+
 [![EpochView Demo](https://img.youtube.com/vi/nFKDqvfeReg/0.jpg)](https://youtu.be/nFKDqvfeReg)
 
+</div>
 
 EpochView is an interactive web application that transforms static map coordinates into dynamic, immersive historical narratives. It acts as a Time Machine for Places, allowing users to visualize how any location on Earth has evolved over thousands of years, replacing fragmented textbooks with a holistic digital experience.
 
