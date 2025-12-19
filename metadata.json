@@ -1,0 +1,7 @@
+{
+  "name": "EpochView: Search any place. Scroll through time.",
+  "description": "An interactive application to explore the historical evolution of locations on Earth, featuring AI-generated historical visualizations, timelines, and intelligent chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
